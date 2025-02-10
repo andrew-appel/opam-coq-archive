@@ -17,6 +17,7 @@ authors: [
   "Samuel Gruetter"
   "Jean-Marie Madiot"
 ]
+flags: avoid-version
 maintainer: "VST team"
 homepage: "http://vst.cs.princeton.edu/"
 dev-repo: "git+https://github.com/PrincetonUniversity/VST.git"
